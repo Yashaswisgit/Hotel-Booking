@@ -1,0 +1,9 @@
+USERS Can:
+1. See the lists of the hotels available.
+2. Book a hotel.
+3. Get the reservation tickets.
+
+Classes:
+1. Users
+2. Hotel
+3. Reservation_Tickets
